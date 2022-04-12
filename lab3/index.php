@@ -10,10 +10,10 @@
         
         // Параметры для подключения
         $db_host = "localhost";
-        $db_user = "root"; // Логин БД
-        $db_password = "Yfcnhjtybt1597533"; // Пароль БД
-        $db_base = 'my_db'; // Имя БД
-        $db_table = "application"; // Имя Таблицы БД
+        $db_user = "u47649"; // Логин БД
+        $db_password = "2411574"; // Пароль БД
+        $db_base = 'u47649'; // Имя БД
+        $db_table = "APPLICATION"; // Имя Таблицы БД
         
         try {
             // Подключение к базе данных
